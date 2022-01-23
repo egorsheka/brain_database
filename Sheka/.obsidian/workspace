@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "a5b7a0a810d8fb3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "131ef51d297002b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Roadmap 2022.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a065018e27653ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8bf76bab9a6d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb3bc84ab52bde5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d2f2cc8b4eae635",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3207270aed9b8095",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314
+  },
+  "right": {
+    "id": "63aac2366207e7f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15a601ced02cc3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a91d1cd734ea707",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Roadmap 2022.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b05eae6acfedfcbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3606e08243073d7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Roadmap 2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382,
+    "collapsed": true
+  },
+  "active": "131ef51d297002b6",
+  "lastOpenFiles": [
+    "Base/Roadmap 2022.md",
+    "Base/Software Engineering/Spring/Core/Spring.md",
+    "Base/My Roadmap.md",
+    "Base/_Brain.md",
+    "Base/Software Engineering/RTF to HTML.md",
+    "Base/_Мой Zettelkasten.md",
+    "Base/Other/Правильное питание.md",
+    "Base/Other/Texts.md",
+    "Base/Other/Без названия.md",
+    "Base/Other/WB.md"
+  ]
+}

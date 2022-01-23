@@ -1,0 +1,12 @@
+{
+  "obsidianCss": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Files",
+  "spellcheck": true,
+  "defaultViewMode": "source",
+  "trashOption": "local"
+}
