@@ -3,14 +3,22 @@ Tags:  |
 ____
 
 # Roadmap 2022
-
-HTTP
-
-
-
-Git
-
-Java :
+#### Spring :
+- core:
+	- Inversion of Control
+	- Autowiring
+	- Bean life cycle
+	- Bean scopes
+	- Profiles
+	- Validation
+	- AOP
+- mvc
+- security
+- integration
+- testing
+#### Git
+#### HTTP
+#### Java :
 - object 
 - exception
 - generic 
@@ -23,14 +31,7 @@ Java :
 
 
 
-Spring :
-- core:
-	 the IoC Container
-	 AOP
-- mvc
-- security
-- integration
-- testing
+
 
 
 
