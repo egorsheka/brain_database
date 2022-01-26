@@ -9,6 +9,7 @@ ____
 	- Autowiring
 	- Bean life cycle
 	- Bean scopes
+	- Annotation and Java config
 	- Profiles
 	- Validation
 	- AOP
