@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/COMPANY AND JOB.md",
+            "file": "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "eb3d3c5a8dec8a23",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Sheka/Files/company-and-job-british-english-teacher-ver2.pdf"
           }
         }
       }
@@ -79,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Files/company-and-job-british-english-teacher-ver2.pdf",
+                "file": "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,10 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "75e863c4133dfe85",
   "lastOpenFiles": [
-    "Sheka/Files/company-and-job-british-english-teacher-ver2.pdf",
-    "Sheka/Base/COMPANY AND JOB.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
     "Sheka/Templates/New note.md",
-    "COMPANY AND JOB.md"
+    "Sheka/Base/Software Engineering/Spring/Core/Spring.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
+    "Sheka/Base/Roadmap 2022.md",
+    "Sheka/Base/My Roadmap.md",
+    "Sheka/Base/С чем я работал.md",
+    "Sheka/Base/Software Engineering/Spring/Spring Boot Dev tools.md"
   ]
 }
