@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
+            "file": "Sheka/Base/Software Engineering/Java/Java Persistence/Java Persistence.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
+                "file": "Sheka/Base/Software Engineering/Java/Java Persistence/Java Persistence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
-    "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
-    "Sheka/Templates/New note.md",
-    "Sheka/Base/Software Engineering/Spring/Spring Rest.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
+    "Sheka/Base/Software Engineering/Java/Java Persistence/Java Persistence.md",
+    "Sheka/Base/Software Engineering/Java/Java Persistence/Associations.md",
+    "Sheka/Base/Software Engineering/Java/Java Collections.md",
     "Sheka/Base/Roadmap 2022.md",
-    "Sheka/Base/My Roadmap.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Spring.md",
-    "Sheka/Base/С чем я работал.md"
+    "Sheka/Base/С чем я работал.md",
+    "Sheka/Base/English/Travaling.md",
+    "Sheka/Base/English/Vocabulary.md",
+    "Sheka/Base/Other/WB.md",
+    "Sheka/Base/Other/Texts.md",
+    "Sheka/Base/Other/Company and job.md"
   ]
 }
