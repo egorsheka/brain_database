@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Roadmap 2022.md",
+            "file": "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393
   },
   "right": {
     "id": "12d19fede6fab63d",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Roadmap 2022.md",
+                "file": "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
+    "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
     "Sheka/Base/Roadmap 2022.md",
     "Sheka/Base/Software Engineering/Java/Java Persistence/Java Persistence.md",
     "Sheka/Base/Software Engineering/Java/Java Persistence/Associations.md",
     "Sheka/Base/Software Engineering/Java/Java Collections.md",
     "Sheka/Base/С чем я работал.md",
     "Sheka/Base/English/Travaling.md",
-    "Sheka/Base/English/Vocabulary.md",
-    "Sheka/Base/Other/WB.md",
-    "Sheka/Base/Other/Texts.md",
-    "Sheka/Base/Other/Company and job.md"
+    "Sheka/Base/English/Vocabulary.md"
   ]
 }
