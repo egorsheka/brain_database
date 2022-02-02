@@ -1,4 +1,4 @@
-{{date:DD.MM.YYYY}}  {{time:HH:mm}}
+02.02.2022  12:55
 Tags:  |
 ____
 
