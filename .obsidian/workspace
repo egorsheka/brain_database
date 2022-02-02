@@ -7,11 +7,8 @@
         "id": "75e863c4133dfe85",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
+    "Pasted image 20220202114142.png",
+    "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
     "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
     "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
     "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
     "Sheka/Base/Roadmap 2022.md",
     "Sheka/Base/Software Engineering/Java/Java Persistence/Java Persistence.md",
     "Sheka/Base/Software Engineering/Java/Java Persistence/Associations.md",
-    "Sheka/Base/Software Engineering/Java/Java Collections.md",
-    "Sheka/Base/С чем я работал.md",
-    "Sheka/Base/English/Travaling.md",
-    "Sheka/Base/English/Vocabulary.md"
+    "Sheka/Base/Software Engineering/Java/Java Collections.md"
   ]
 }

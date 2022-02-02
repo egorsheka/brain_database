@@ -9,5 +9,7 @@
     "markdown-importer": true,
     "word-count": true,
     "open-with-default-app": true
-  }
+  },
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Sheka/Files"
 }
