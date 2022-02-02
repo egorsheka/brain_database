@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
+            "file": "Sheka/Base/Roadmap 2022.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
+                "file": "Sheka/Base/Roadmap 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
-    "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Spring.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Profiles.md",
     "Sheka/Base/Roadmap 2022.md",
-    "Sheka/Base/My Roadmap.md",
-    "Sheka/Base/Software Engineering/Spring/Exception Handling.md",
     "Sheka/Base/Software Engineering/Spring/Validation API.md",
-    "Sheka/Base/Software Engineering/Spring/Spring Rest.md",
-    "Sheka/Base/Software Engineering/Spring/Spring Boot Dev tools.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md"
+    "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
+    "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Profiles.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
+    "Sheka/Base/Software Engineering/Spring/Core/Spring.md",
+    "Sheka/Base/My Roadmap.md"
   ]
 }

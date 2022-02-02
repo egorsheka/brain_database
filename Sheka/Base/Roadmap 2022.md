@@ -37,6 +37,7 @@ ____
 
 
 ### Need to read later
+прочитать про BPP https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-factory-extension-bpp
 закончить Bean Scopes
 https://spring.io/blog/2004/08/06/method-injection/
 https://www.youtube.com/watch?v=muJOdyoE7Gk
