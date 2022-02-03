@@ -5,7 +5,8 @@ ____
 # Translation 
 1) https://reallanguage.club/anglijskie-teksty-dlya-srednego-urovnya/i-go-without-my-breakfast/
 words:
-
+completely
+complicated
 
 
 ____ 
