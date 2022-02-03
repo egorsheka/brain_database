@@ -5,7 +5,7 @@ ____
 # Roadmap 2022
 #### English
 evry day:
-- translate 2 texts 
+- one text to translate 
 - learn words from preveis texts and lessons
 - 3 page from book
 
