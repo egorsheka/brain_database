@@ -3,6 +3,12 @@ Tags:  |
 ____
 
 # Roadmap 2022
+#### English
+evry day:
+- translate 2 texts 
+- learn words from preveis texts and lessons
+- 3 page from book
+
 #### Spring :
 - core:
 	- Inversion of Control
