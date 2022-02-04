@@ -22,11 +22,13 @@ evry day:
 	- AOP
 - mvc
 - security
+- Data
 - integration
 - testing
 #### Git
+#### Hibernate
 #### HTTP
-#### Java :
+#### Java
 - object 
 - exception
 - generic 
