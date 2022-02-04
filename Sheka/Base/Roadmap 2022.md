@@ -11,11 +11,12 @@ evry day:
 
 #### Spring :
 - core:
-	- Inversion of Control
-	- Autowiring
+	- Inversion of Control `done`
+	- Autowiring `done`
 	- Bean life cycle
-	- Bean scopes
+	- Bean scopes 
 	- Annotation and Java config
+	- AplicationContext and BeanFactory
 	- Profiles
 	- Validation
 	- AOP
