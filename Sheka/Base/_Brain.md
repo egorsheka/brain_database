@@ -16,6 +16,9 @@ UserController
 94 не должно быть глаголов в юрлах (/admin/users/roles/)
 
 128 вынести в отдельный контроллер ????????
+
+SupplyController
+41 имя метода, 
 -
 ____
 ### Links 
