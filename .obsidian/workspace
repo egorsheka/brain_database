@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Roadmap 2022.md",
+            "file": "Sheka/Base/_Brain.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 100
   },
   "right": {
     "id": "12d19fede6fab63d",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Roadmap 2022.md",
+                "file": "Sheka/Base/_Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
+    "Sheka/Base/_Brain.md",
     "Sheka/Base/Roadmap 2022.md",
     "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
     "Sheka/Base/My Roadmap.md",
@@ -96,7 +97,6 @@
     "Sheka/Base/English/E.md",
     "Sheka/Base/Software Engineering/Spring/Validation API.md",
     "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Profiles.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md"
+    "Sheka/Base/Software Engineering/Spring/Core/Profiles.md"
   ]
 }
