@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Roadmap 2022.md",
-            "mode": "preview"
+            "file": "Base/to read.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Roadmap 2022.md",
+                "file": "Base/to read.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Roadmap 2022.md"
+                "file": "Base/to read.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "131ef51d297002b6",
   "lastOpenFiles": [
-    "Base/Roadmap 2022.md",
+    "Base/to read.md",
     "Base/My Roadmap.md",
-    "Base/Software Engineering/Spring/Core/Bean life cycle.md",
+    "Base/Roadmap 2022.md",
+    "Base/Software Engineering/RTF to HTML.md",
+    "Base/Software Engineering/Spring/MVC.md",
+    "Base/Software Engineering/JavaScript.md",
     "Base/Software Engineering/Spring/Validation API.md",
-    "Base/Software Engineering/Spring/Core/Profiles.md",
-    "Base/Software Engineering/Spring/Core/Inversion of Control.md",
-    "Base/Software Engineering/Spring/Core/Bean scopes.md",
-    "Base/Software Engineering/Spring/Core/Autowiring.md",
-    "Base/Software Engineering/Spring/Core/Spring.md",
-    "Base/_Brain.md"
+    "Base/Software Engineering/Spring/Spring Rest.md",
+    "Base/Software Engineering/Spring/Spring Boot Dev tools.md",
+    "Base/Software Engineering/Spring/Core/Profiles.md"
   ]
 }
