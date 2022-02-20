@@ -32,3 +32,12 @@ https://www.youtube.com/watch?v=bTRR-0v_Cug
 
 ####  Микросервисная архитектура, Spring Cloud и Docker
 https://habr.com/ru/post/280786/
+
+####  Difference between @Service and @Repository annotation in spring boot?
+https://medium.com/@mktechm/difference-between-service-and-repository-annotation-in-spring-boot-bc260f49a3a1
+
+####  API Architecture - Performance Best Practices for REST APIs
+https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1
+
+#### англ вопросы
+![[questions-for-software-developers-british-english-teacher.pdf]]
