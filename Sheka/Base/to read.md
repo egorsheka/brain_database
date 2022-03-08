@@ -41,3 +41,6 @@ https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-r
 
 #### англ вопросы
 ![[questions-for-software-developers-british-english-teacher.pdf]]
+
+#### интервью
+https://www.youtube.com/watch?v=_7riaBIOxbM
