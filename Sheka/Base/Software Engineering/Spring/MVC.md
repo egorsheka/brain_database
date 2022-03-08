@@ -4,6 +4,8 @@ ____
 
 # MVC
 maybe need to read https://www.baeldung.com/spring-web-contexts
+https://stackify.com/spring-mvc/
+https://mossgreen.github.io/Spring-Certification-Spring-MVC/#:~:text=META-INF%2Fresources-,Is%20the%20DispatcherServlet%20instantiated%20via%20an%20application%20context%3F,any%20application%20context%20is%20created
 
 
 ### DispatcherServlet
