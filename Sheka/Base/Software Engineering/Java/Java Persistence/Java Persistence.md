@@ -110,4 +110,5 @@ ____
 - https://www.youtube.com/watch?v=C-wEZjEOhWc
 - https://dzone.com/articles/what-is-the-difference-between-hibernate-and-sprin-1
 - https://www.youtube.com/watch?v=nwM7A4TwU3M&list=RDCMUCYrGYT7BswsJGkmG7-IAF8g&index=5
+- https://habr.com/ru/post/265061/
 

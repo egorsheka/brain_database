@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Hybris/komus.md",
-            "mode": "source"
+            "file": "Base/to read.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Hybris/komus.md",
+                "file": "Base/to read.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Hybris/komus.md"
+                "file": "Base/to read.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "131ef51d297002b6",
   "lastOpenFiles": [
-    "Base/Hybris/komus.md",
-    "Base/Software Engineering/Spring/MVC.md",
     "Base/to read.md",
-    "Base/My Roadmap.md",
-    "Base/Roadmap 2022.md",
-    "Base/Software Engineering/RTF to HTML.md",
-    "Base/Software Engineering/JavaScript.md",
-    "Base/Software Engineering/Spring/Validation API.md",
-    "Base/Software Engineering/Spring/Spring Rest.md",
-    "Base/Software Engineering/Spring/Spring Boot Dev tools.md"
+    "Base/Software Engineering/Spring/Spring Boot Actuator.md",
+    "Base/English/Vocabulary.md",
+    "Base/English/Travaling.md",
+    "Base/English/Translation texts.md",
+    "Base/English/thifd.md",
+    "Base/English/Introduction.md",
+    "Base/English/Interview.md",
+    "Base/English/English for Business.md",
+    "Base/English/00 English.md"
   ]
 }
