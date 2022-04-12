@@ -4,6 +4,36 @@ ____
 
 # Roadmap
 
+
+
+- sql
+- java
+- git
+
+
+- database
+- hibernate/JPA
+- spring data
+- docker
+- spring securyty
+- spring web
+- spring boot
+- spring core
+- junit
+- ооп, solid, patterns
+- work experience
+- english
+
+
+
+
+
+
+
+
+
+
+
 ## Spring
 - Core
 	

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/to read.md",
+            "file": "Base/Мой менеджмент.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/to read.md",
+                "file": "Base/Мой менеджмент.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/to read.md"
+                "file": "Base/Мой менеджмент.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "131ef51d297002b6",
   "lastOpenFiles": [
-    "Base/to read.md",
-    "Base/Software Engineering/Spring/Spring Boot Actuator.md",
-    "Base/English/Vocabulary.md",
-    "Base/English/Travaling.md",
-    "Base/English/Translation texts.md",
-    "Base/English/thifd.md",
-    "Base/English/Introduction.md",
-    "Base/English/Interview.md",
-    "Base/English/English for Business.md",
-    "Base/English/00 English.md"
+    "Base/Мой менеджмент.md",
+    "Base/Моё интервью.md",
+    "Base/С чем я работал.md",
+    "Base/Roadmap 2022.md",
+    "Base/_Brain.md",
+    "Base/Software Engineering/SQL/SQL Roadmap.md",
+    "Base/Software Engineering/Spring/tests/Без названия.md",
+    "Base/Software Engineering/Database/SQL.md",
+    "Base/Software Engineering/Database/DML.md",
+    "Base/Software Engineering/Spring/Spring JPA.md"
   ]
 }
