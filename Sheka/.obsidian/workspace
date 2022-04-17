@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "131ef51d297002b6",
+        "id": "114ad8366abf609b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Мой менеджмент.md",
+            "file": "Base/English/topics/translated texts/Mid-life crisis.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Мой менеджмент.md",
+                "file": "Base/English/topics/translated texts/Mid-life crisis.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Мой менеджмент.md"
+                "file": "Base/English/topics/translated texts/Mid-life crisis.md"
               }
             }
           }
@@ -114,17 +114,17 @@
     "direction": "horizontal",
     "width": 382
   },
-  "active": "131ef51d297002b6",
+  "active": "114ad8366abf609b",
   "lastOpenFiles": [
+    "Base/English/topics/translated texts/Mid-life crisis.md",
+    "Base/English/topics/Introduction.md",
+    "Base/English/topics/Travaling.md",
+    "Base/English/Без названия.md",
+    "Base/English/How to learn English, Sheka's strategy.md",
+    "Base/English/Translation texts.md",
     "Base/Мой менеджмент.md",
-    "Base/Моё интервью.md",
+    "Base/Software Engineering/Java/Java Collections.md",
     "Base/С чем я работал.md",
-    "Base/Roadmap 2022.md",
-    "Base/_Brain.md",
-    "Base/Software Engineering/SQL/SQL Roadmap.md",
-    "Base/Software Engineering/Spring/tests/Без названия.md",
-    "Base/Software Engineering/Database/SQL.md",
-    "Base/Software Engineering/Database/DML.md",
-    "Base/Software Engineering/Spring/Spring JPA.md"
+    "Base/_Brain.md"
   ]
 }
