@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "114ad8366abf609b",
+        "id": "3aa4c6a4ac87ee94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/English/topics/translated texts/Mid-life crisis.md",
-            "mode": "preview"
+            "file": "Base/Личный рост/Заметки по книгам/Без названия.md",
+            "mode": "source"
           }
         }
       }
@@ -76,8 +76,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/English/topics/translated texts/Mid-life crisis.md",
-                "collapseAll": false,
+                "file": "Base/Личный рост/Заметки по книгам/Без названия.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/English/topics/translated texts/Mid-life crisis.md"
+                "file": "Base/Личный рост/Заметки по книгам/Без названия.md"
               }
             }
           }
@@ -114,17 +114,17 @@
     "direction": "horizontal",
     "width": 382
   },
-  "active": "114ad8366abf609b",
+  "active": "3aa4c6a4ac87ee94",
   "lastOpenFiles": [
-    "Base/English/topics/translated texts/Mid-life crisis.md",
-    "Base/English/topics/Introduction.md",
-    "Base/English/topics/Travaling.md",
-    "Base/English/Без названия.md",
-    "Base/English/How to learn English, Sheka's strategy.md",
-    "Base/English/Translation texts.md",
-    "Base/Мой менеджмент.md",
-    "Base/Software Engineering/Java/Java Collections.md",
-    "Base/С чем я работал.md",
-    "Base/_Brain.md"
+    "Base/Личный рост/Заметки по книгам/Без названия.md",
+    "Base/Личный рост/Прочитанные книги.md",
+    "Base/Личный рост/Осознанная практика.md",
+    "Base/Личный рост/Мой менеджмент.md",
+    "Base/Личный рост/Software engineering work.md",
+    "Base/Other/_Мой Zettelkasten.md",
+    "Base/Other/to read.md",
+    "Base/Other/Моё интервью.md",
+    "Base/Other/С чем я работал.md",
+    "Base/Other/Roadmap 2022.md"
   ]
 }

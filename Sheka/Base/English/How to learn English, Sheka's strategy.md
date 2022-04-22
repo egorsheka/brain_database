@@ -17,6 +17,8 @@ https://basicenglishspeaking.com/basic-english-grammar-rules/
 - to speak in English with tutor or friends 
 https://www.italki.com/
 
+- read books aloud
+
 - use all types of learning 
 reading
 speaking
@@ -26,4 +28,5 @@ writing
 
 ____ 
 ### Links
--
+- https://app.fluentize.com/ (крутые материалы)
+- [CNBC International - YouTube](https://www.youtube.com/c/CnbcIntl/videos) (прикольно посмотреть)

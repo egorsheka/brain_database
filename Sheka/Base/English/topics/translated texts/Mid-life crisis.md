@@ -42,4 +42,4 @@ https://dictionary.cambridge.org/ru/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D
 это не похоже(не кажется вам интересной или стоящей) на захватывающую или стоящую работу 
 ____ 
 ### Links
--
+- https://reallanguage.club/anglijskie-teksty-dlya-srednego-urovnya/mid-life-crisis/
