@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Personal grow/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+            "file": "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Personal grow/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+                "file": "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Personal grow/Заметки по книгам/Преимущество счастья. Шон Ачор.md"
+                "file": "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md"
               }
             }
           }
@@ -116,11 +116,11 @@
   },
   "active": "3aa4c6a4ac87ee94",
   "lastOpenFiles": [
-    "Base/Personal grow/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
-    "Base/Personal grow/Прочитанные книги.md",
-    "Base/Personal grow/Осознанная практика.md",
-    "Base/Personal grow/Мой менеджмент.md",
-    "Base/Personal grow/Software engineering work.md",
+    "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+    "Base/Личный рост/Прочитанные книги.md",
+    "Base/Личный рост/Осознанная практика.md",
+    "Base/Личный рост/Мой менеджмент.md",
+    "Base/Личный рост/Software engineering work.md",
     "Base/Other/_Мой Zettelkasten.md",
     "Base/Other/to read.md",
     "Base/Other/Моё интервью.md",
