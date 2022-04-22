@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/English/How to learn English, Sheka's strategy.md",
+            "file": "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/English/How to learn English, Sheka's strategy.md",
+                "file": "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
+    "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
     "Sheka/Base/English/How to learn English, Sheka's strategy.md",
     "Sheka/Base/Software Engineering/Spring/MVC.md",
     "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
@@ -96,7 +97,6 @@
     "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
     "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
     "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
-    "Sheka/Base/_Brain.md",
-    "Sheka/Base/Roadmap 2022.md"
+    "Sheka/Base/_Brain.md"
   ]
 }
