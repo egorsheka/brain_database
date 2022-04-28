@@ -11,7 +11,12 @@ day 3: lesson (1h20m)
 day 4:
 day 5: lesson(58 min)
 day 6:
+day 7:
 
+### week 2:
+day 1: 
+day 2:
+day 3:
 agenda: 
 
 unit 111

@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+            "file": "Base/Software Engineering/Git.md",
+            "mode": "preview"
+          }
+        },
+        "group": "aa23cb6ab3db8c4f"
+      },
+      {
+        "id": "886b4e4e895de0fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Software Engineering/Git.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "aa23cb6ab3db8c4f"
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 263.0036334991455
   },
   "right": {
     "id": "63aac2366207e7f0",
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+                "file": "Base/Software Engineering/Git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md"
+                "file": "Base/Software Engineering/Git.md"
               }
             }
           }
@@ -112,19 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382
+    "width": 245.71572875976562
   },
   "active": "3aa4c6a4ac87ee94",
   "lastOpenFiles": [
-    "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
-    "Base/Личный рост/Прочитанные книги.md",
-    "Base/Личный рост/Осознанная практика.md",
-    "Base/Личный рост/Мой менеджмент.md",
+    "Base/Software Engineering/Git.md",
     "Base/Личный рост/Software engineering work.md",
-    "Base/Other/_Мой Zettelkasten.md",
-    "Base/Other/to read.md",
-    "Base/Other/Моё интервью.md",
-    "Base/Other/С чем я работал.md",
-    "Base/Other/Roadmap 2022.md"
+    "Base/Личный рост/Мой менеджмент.md",
+    "Base/Hybris/komus.md",
+    "Base/Личный рост/English work.md",
+    "Base/Личный рост/Прочитанные книги.md",
+    "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+    "Base/Software Engineering/JavaScript.md",
+    "Base/Личный рост/Осознанная практика.md",
+    "Base/Other/_Мой Zettelkasten.md"
   ]
 }
