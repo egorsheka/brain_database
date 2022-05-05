@@ -67,7 +67,6 @@ https://www.youtube.com/watch?v=1oExHLJXBIg&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0a
 
 иногда возможно восоздать удалённую ветку, для этого нужно найти необходимый последний коммит с помощью `git reflog --date=iso`, а затем воссоздать ветку `git branch old_branch HEAD@{6}` иногда в windows 'HEAD@{6}' надо брать в кавычки
 
-`git push origin --delete crazy-experiment` - удалить ветку на удалённом репозитории
 ### git checkout 
 `git checkout my_branch` - переключиться на ветку 
 **при переключении с ветку на ветку индексация сохраняется, если в коммитах веток сделаны изменения в разных файлах, т.е. на второй ветке можно случайно закоммитеть ненужные изменения**, т.е. можно вести разработку в master, добавить все изменения в индексацию, а потом просто переключиться на новую ветку и закоммитеть всё.
@@ -121,6 +120,12 @@ https://www.youtube.com/watch?v=1oExHLJXBIg&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0a
 при применении `git reset`, коммит с которого переместились можно найти по указателю `ORIG_HEAD`, т.е. чтобы вернуться обратно достаточно `git reset --soft ORIG_HEAD` или посмотреть нужный коммит в `git reflog` и также перейти на него `git reset --hard 38d5`
 
 `git commit --amend` - внести новые изменения в прошлый коммит (т.е. вносим изменения, `git add`, `git commit --amend`) = `git reset --soft @~`, `git add`, `git commit -c ORIG_HEAD`(возьмёт коммент из прошлого коммита; чтобы выйти из консоли `esc` `:q` `enter`)
+### git revert
+команда используется, если разработка ведётся на одной ветке с несколькими разработчиками, в ситуции, когда кто-то уже запулил ненужный коммит. 
+`git revert 23s5` - создает коммит противоположному коммиту 23s5
+`git revert 64a2..23s5` - создает серию противоположных коммитов для диапозона 64a2 - 23s5
+`git revert 3452 -m 1` - этот вариант отменяет все изменения, сделанные командой git merge, и восстанавливает состояние ветки (в которую происходило вливание) до мерджа
+
 ### cherry-pick
 `git cherry-pick 23d2` - скопировать коммит в свою ветку
 `git cherry-pick -n 23d2` - скопировать коммит себе в индех
@@ -177,7 +182,13 @@ stash@{2}: WIP on main: 5002d47 our new homepage
 ### git pull
 git pull = git fetch + git merge 
 
-### не усвоил
+### git push
+`git push --force-with-lease origin <имя_ветки>`
+Такой вариант лучше чем git push --force origin <имя_ветки>, тем что если кто-то успел запушить свои коммиты после того, как мы забирали изменения с сервера, то он не будет их перетирать, а выдаст нам ошибку, после чего мы сможем интегрировать чужие коммиты со своими изменениями и попытаться сделать push --force-with-lease ещё раз.
+`git push origin --delete crazy-experiment` - удалить ветку на удалённом репозитории
+`git push --set-upstream origin corrected-branch-name` - переменовать ветку на удалённом репозитории
+https://urvanov.ru/2017/09/19/%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-git-push-force-%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D1%8C-git-push-force-with-lease/
+### интересно посмотреть
 
 32 видео
 46 видео
@@ -190,6 +201,13 @@ https://www.atlassian.com/ru/git/tutorials/using-branches/merge-conflicts
 проделать кейс. 
 удалить 3 последних коммита с удалённого репо и закинуть новые 
 git grep
+git bisect
+git tree
+pre-commit
+git branch -merged
+git rebase -i
+Команда _git rebase_ (перебазирование) — применяет коммиты текущей ветки после коммитов ветки _(base tip)_, указанной в команде rebase. С помощью rebase можно выполнять целый ряд задач: слияние веток, перемотку _(fast forwarding)_, изменение коммитов текущей ветки (редактирование, именование, удаление, слияние, перетасовка коммитов), пересадку текущей ветки (с помощью опции _—onto_) и др.
+git cherry-pick -m 1 63ad84c  https://www.toptal.com/git/interview-questions
 ____ 
 ### Links
 - https://www.gitkraken.com/learn/git
