@@ -32,12 +32,14 @@ evry day:
 - object 
 - exception
 - generic 
-- multithreading
+- multithreading -r
 - functional and stream
 - string
 - java API
-- collections
+- collections -r
 - servlet
+- jvm -r
+- J
 
 
 
