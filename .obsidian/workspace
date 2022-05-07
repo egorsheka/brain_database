@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+            "file": "Sheka/Base/Hybris/komus.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 363
   },
   "right": {
     "id": "12d19fede6fab63d",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
+                "file": "Sheka/Base/Hybris/komus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
+    "Sheka/Base/Hybris/komus.md",
     "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
     "Sheka/Base/English/How to learn English, Sheka's strategy.md",
     "Sheka/Base/Software Engineering/Spring/MVC.md",
@@ -96,7 +97,6 @@
     "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
     "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
     "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md",
-    "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md",
-    "Sheka/Base/_Brain.md"
+    "Sheka/Base/Software Engineering/Spring/Core/ApplicationContext and BeanFactory.md"
   ]
 }
