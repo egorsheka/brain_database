@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Личный рост/Мой менеджмент.md",
-            "mode": "preview"
+            "file": "Base/Личный рост/Дневник/Мысля.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Личный рост/Мой менеджмент.md",
+                "file": "Base/Личный рост/Дневник/Мысля.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Личный рост/Мой менеджмент.md"
+                "file": "Base/Личный рост/Дневник/Мысля.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "41258609d814b09a",
   "lastOpenFiles": [
+    "Base/Личный рост/Дневник/Мысля.md",
+    "Base/Личный рост/Режим дня.md",
+    "Base/Hybris/komus.md",
+    "Base/Software Engineering/Git.md",
+    "Base/English/topics/Introduction.md",
+    "Base/English/How to learn English, Sheka's strategy.md",
+    "Base/English/topics/Travaling.md",
     "Base/Личный рост/Мой менеджмент.md",
     "Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
-    "Base/Личный рост/Прочитанные книги.md",
-    "Base/Личный рост/Недельные отчёты.md",
-    "Base/Личный рост/Осознанная практика.md",
-    "Base/Личный рост/Режим дня.md",
-    "Base/Benefit project.md",
-    "Base/Software Engineering/Git.md",
-    "Base/English/How to learn English, Sheka's strategy.md",
-    "Base/English/topics/Introduction.md"
+    "Base/Личный рост/Прочитанные книги.md"
   ]
 }
