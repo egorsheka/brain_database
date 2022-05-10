@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Hybris/komus.md",
-            "mode": "preview"
+            "file": "Sheka/Base/Личный рост/Дневник/Мысля.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Hybris/komus.md",
+                "file": "Sheka/Base/Личный рост/Дневник/Мысля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
+    "Sheka/Base/Личный рост/Дневник/Мысля.md",
+    "Sheka/Base/Личный рост/Недельные отчёты.md",
+    "Sheka/Base/Личный рост/Мой менеджмент.md",
     "Sheka/Base/Hybris/komus.md",
     "Sheka/Base/Software Engineering/Git.md",
     "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
     "Sheka/Base/English/How to learn English, Sheka's strategy.md",
     "Sheka/Base/Software Engineering/Spring/MVC.md",
     "Sheka/Base/Software Engineering/Spring/Core/Inversion of Control.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Profiles.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Bean scopes.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Bean life cycle.md",
-    "Sheka/Base/Software Engineering/Spring/Core/Autowiring.md"
+    "Sheka/Base/Software Engineering/Spring/Core/Profiles.md"
   ]
 }
