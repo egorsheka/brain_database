@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sheka/Base/Software Engineering/Git.md",
-            "mode": "source"
+            "file": "Sheka/Base/Hybris/komus.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheka/Base/Software Engineering/Git.md",
+                "file": "Sheka/Base/Hybris/komus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "75e863c4133dfe85",
   "lastOpenFiles": [
-    "Sheka/Base/Software Engineering/Git.md",
     "Sheka/Base/Hybris/komus.md",
+    "Sheka/Base/Software Engineering/Git.md",
     "Sheka/Base/Личный рост/Заметки по книгам/Преимущество счастья. Шон Ачор.md",
     "Sheka/Base/English/How to learn English, Sheka's strategy.md",
     "Sheka/Base/Software Engineering/Spring/MVC.md",
