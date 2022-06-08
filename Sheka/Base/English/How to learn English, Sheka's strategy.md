@@ -26,6 +26,16 @@ speaking
 listening
 writing
 
+## Reading
+1. Бегло читаю 3 страницы
+2. Выписываю слова
+3. Учу слова
+4. Снова читаю 3 страницы
+
+
+## Listening
+https://www.youtube.com/watch?v=3xCQrnTYmzY&list=PLlpAWCqcstzpkZomfDM5P2gwO4dgP0o_5&index=8
+English from movie 
 
 ____ 
 ### Links

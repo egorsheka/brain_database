@@ -8,5 +8,6 @@ ____
 ____ 
 ### Links
 вверха от Миши. тип этого хватит и минимум
+GC stop the word(не факт, что так)
 - https://ziginsider.github.io/Garbage_Collector_Java/
 - https://www.youtube.com/watch?v=-fcj6EL9rc4&t=1s

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Hybris/Set hybris.md",
-            "mode": "preview"
+            "file": "Base/English/How to learn English, Sheka's strategy.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.0036334991455
+    "width": 212.0036334991455
   },
   "right": {
     "id": "63aac2366207e7f0",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Hybris/Set hybris.md",
+                "file": "Base/English/How to learn English, Sheka's strategy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Hybris/Set hybris.md"
+                "file": "Base/English/How to learn English, Sheka's strategy.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "41258609d814b09a",
   "lastOpenFiles": [
-    "Base/Hybris/Set hybris.md",
-    "Files/Pasted image 20220510110831.png",
-    "Base/Hybris/komus.md",
-    "Base/Личный рост/Дневник/Мысля.md",
-    "Base/Личный рост/Режим дня.md",
-    "Base/Software Engineering/Git.md",
-    "Base/English/topics/Introduction.md",
     "Base/English/How to learn English, Sheka's strategy.md",
-    "Base/English/topics/Travaling.md",
-    "Base/Личный рост/Мой менеджмент.md"
+    "Base/Other/to read.md",
+    "Files/Pasted image 20220418223123.png",
+    "Files/questions-for-software-developers-british-english-teacher.pdf",
+    "Files/Pasted image 20220513144146.png",
+    "Files/Pasted image 20220510111617.png",
+    "Base/Other/Roadmap 2022.md",
+    "Base/Other/12 подсказок для здорового сна.md",
+    "Base/Other/_Мой Zettelkasten.md",
+    "Base/Software Engineering/Database/DML.md"
   ]
 }

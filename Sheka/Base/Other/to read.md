@@ -26,6 +26,7 @@ https://medium.com/javarevisited/10-best-java-web-services-rest-soap-and-api-cou
 
 #### книга  DevOps Tools for Java Developers
 https://learning.oreilly.com/library/view/devops-tools-for/9781492084013/
+https://learning.oreilly.com/library/view/devops-tools-for/9781492084013/ch04.html#idm45027559769680
 
 #### БД
 https://www.youtube.com/watch?v=bTRR-0v_Cug

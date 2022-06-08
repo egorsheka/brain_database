@@ -122,7 +122,7 @@ https://jobs.devby.io/vacancies/23762
 -   Базовые навыки работы с командной строкой Linux
 -   Знание NoSQL баз данных
 
-
+![[Pasted image 20220513144146.png]]
 
 ____ 
 ### Links
